@@ -14,5 +14,9 @@
   "dependencies": {
     "@red-cup-engineering/cryptographic-computer-data-engineering-services-section": "workspace:*",
     "@red-cup-engineering/computer-content-address-engineering-services-section": "workspace:*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/public-algora-bug-bounty-services-section.git"
   }
 }
