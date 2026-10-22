@@ -10,7 +10,7 @@
     "plan": "node scripts/plan.mjs",
     "history": "node scripts/history.mjs"
   },
-  "license": "LicenseRef-561Group-1.0",
+  "license": "Apache-2.0",
   "dependencies": {
     "@red-cup-engineering/cryptographic-computer-data-engineering-services-section": "workspace:*",
     "@red-cup-engineering/computer-content-address-engineering-services-section": "workspace:*"
@@ -18,5 +18,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/causeway-services/public-algora-bug-bounty-services-section.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
