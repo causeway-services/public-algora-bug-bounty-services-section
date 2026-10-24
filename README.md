@@ -51,4 +51,4 @@ npm run check
 
 ---
 
-Executable code of this section (`scripts/, src/, test/`) lives in [red-cup-engineering/public-algora-bug-bounty-services-section](https://github.com/red-cup-engineering/public-algora-bug-bounty-services-section) at the same relative paths; run it with `SECTION_ROOT` pointing at this checkout.
+Executable code of this section (`scripts/, src/, test/`) lives in [red-cup-engineering/algora-bug-bounty-engineering-services-section](https://github.com/red-cup-engineering/algora-bug-bounty-engineering-services-section) at the same relative paths; run it with `SECTION_ROOT` pointing at this checkout.
